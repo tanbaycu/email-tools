@@ -45,17 +45,17 @@ The Email Generator Tool is a utility designed to generate random email addresse
 
 ## Example
 
-Enter the email template (e.g., user1234@gmail.com): user{random}@example.com
-Enter the domain (e.g., @gmail.com, @yahoo.com) [default: @example.com]: @example.com
-Enter the length of the random part (e.g., 4 for 4 digits): 4
-Enter the type of random characters (digits, letters, alphanumeric) [default: alphanumeric]: alphanumeric
-Enter the format type (simple, custom) [default: simple]: custom
-Enter the number of emails to generate: 5
-Enter additional characters to exclude from passwords (leave empty for defaults): 
-Enter the length of the passwords: 12
-Do you want to save the emails and passwords to a file? (yes/no): yes
-Enter the file format (txt, csv, json, md) [default: txt]: txt
-Enter the filename (e.g., emails.txt): example.txt
+- Enter the email template (e.g., user1234@gmail.com): user{random}@example.com
+- Enter the domain (e.g., @gmail.com, @yahoo.com) [default: @example.com]: @example.com
+- Enter the length of the random part (e.g., 4 for 4 digits): 4
+- Enter the type of random characters (digits, letters, alphanumeric) [default: alphanumeric]: alphanumeric
+- Enter the format type (simple, custom) [default: simple]: custom
+- Enter the number of emails to generate: 5
+- Enter additional characters to exclude from passwords (leave empty for defaults): 
+- Enter the length of the passwords: 12
+- Do you want to save the emails and passwords to a file? (yes/no): yes
+- Enter the file format (txt, csv, json, md) [default: txt]: txt
+- Enter the filename (e.g., emails.txt): example.txt
 
 ## Contact
 
